@@ -24,4 +24,4 @@ Thing you need before using this!
               
  This is just a beginner level code!!
  learn it and use it!!
- its easy
+ its easy.
