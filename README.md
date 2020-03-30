@@ -2,7 +2,7 @@ Hello there!!
 
 This is a simple Artificial intellegence created by using Python language.
 
-What ca IRIS do for you?
+What can IRIS do for you?
      IRIS can listern you and can response too. It can open some websites if you say that website's name. It uses Wolframalpha to respond you!!
      
 Thing you need before using this!
